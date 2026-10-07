@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T07:02:26.964Z",
+  "generated_at": "2026-10-07T17:35:26.081Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -438,6 +438,19 @@
       "last_pushed_at": "2026-10-07T07:02:25.741Z",
       "language": "python",
       "lines": 9
+    },
+    "problem:37": {
+      "kind": "problem",
+      "id": "37",
+      "title": "Calculate Correlation Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/37",
+      "path": "problems/0037-calculate-correlation-matrix",
+      "first_solved_at": "2026-10-07T17:35:25.071Z",
+      "last_pushed_at": "2026-10-07T17:35:25.071Z",
+      "language": "python",
+      "lines": 39
     }
   }
 }
