@@ -12,7 +12,7 @@ def activation_derivatives(x: float) -> dict[str, float]:
 	# Your code here
 	z = 1/(1 + np.exp(-x))
 	sigmoid_der = z * (1 - z)
-	tanh_val = (np.exp(x) - np.exp(-x))/(np.exp(x) + np.exp(-x))
+	tanh_val = np.tanh(x)
 	tanh_der = 1 - tanh_val**2
 	relu_der = 1 if x>0 else 0
 	res = {
