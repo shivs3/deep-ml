@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T06:11:04.878Z",
+  "generated_at": "2026-10-08T06:20:43.023Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -545,6 +545,19 @@
       "last_pushed_at": "2026-10-08T06:11:04.219Z",
       "language": "python",
       "lines": 50
+    },
+    "problem:217": {
+      "kind": "problem",
+      "id": "217",
+      "title": "Derivatives of Activation Functions",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/217",
+      "path": "problems/0217-derivatives-of-activation-functions",
+      "first_solved_at": "2026-10-08T06:20:42.320Z",
+      "last_pushed_at": "2026-10-08T06:20:42.320Z",
+      "language": "python",
+      "lines": 23
     }
   }
 }
