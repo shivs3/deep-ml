@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T16:35:36.594Z",
+  "generated_at": "2026-10-08T16:43:00.925Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -756,6 +756,17 @@
       "last_pushed_at": "2026-10-08T07:34:25.596Z",
       "language": "python",
       "lines": 36
+    },
+    "math:24": {
+      "kind": "math",
+      "id": "24",
+      "title": "Information Theory: Entropy",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/24",
+      "path": "math/0024-information-theory-entropy",
+      "first_solved_at": "2026-10-08T16:43:00.331Z",
+      "last_pushed_at": "2026-10-08T16:43:00.331Z"
     }
   }
 }
