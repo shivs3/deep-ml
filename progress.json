@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T18:29:53.574Z",
+  "generated_at": "2026-10-09T18:31:25.476Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -800,6 +800,17 @@
       "path": "math/0016-eigendecomposition-and-svd",
       "first_solved_at": "2026-10-09T18:29:52.871Z",
       "last_pushed_at": "2026-10-09T18:29:52.871Z"
+    },
+    "math:15": {
+      "kind": "math",
+      "id": "15",
+      "title": "Matrix Decompositions: LU and QR",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/15",
+      "path": "math/0015-matrix-decompositions-lu-and-qr",
+      "first_solved_at": "2026-10-09T18:31:24.823Z",
+      "last_pushed_at": "2026-10-09T18:31:24.823Z"
     }
   }
 }
