@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T18:28:20.489Z",
+  "generated_at": "2026-10-09T18:29:53.574Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -789,6 +789,17 @@
       "path": "math/0006-optimization-convexity-and-critical-points",
       "first_solved_at": "2026-10-09T18:28:19.184Z",
       "last_pushed_at": "2026-10-09T18:28:19.184Z"
+    },
+    "math:16": {
+      "kind": "math",
+      "id": "16",
+      "title": "Eigendecomposition and SVD",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/16",
+      "path": "math/0016-eigendecomposition-and-svd",
+      "first_solved_at": "2026-10-09T18:29:52.871Z",
+      "last_pushed_at": "2026-10-09T18:29:52.871Z"
     }
   }
 }
